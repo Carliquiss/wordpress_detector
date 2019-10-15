@@ -5,7 +5,7 @@ _This scripts detects if a page is made with wordpress or not_
 ## Installing 🔧
 First clone the repo: 
 ```
-https://github.com/Carliquiss/web_clasifier
+https://github.com/Carliquiss/wordpress_detector
 ```
 Then run the following command to install needed libs:
 ```
