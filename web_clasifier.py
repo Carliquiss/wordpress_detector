@@ -55,7 +55,7 @@ def main():
     if args.url:
 
         url = adjustURL(args.url)
-        COMMAND += + url
+        COMMAND += url
 
         salida = os.popen(COMMAND).read()
         salida = str(salida).upper()
