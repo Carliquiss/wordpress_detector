@@ -9,7 +9,7 @@ https://github.com/Carliquiss/wordpress_detector
 ```
 Then run the following command to install needed libs:
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage ⌨️
