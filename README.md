@@ -13,12 +13,13 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage ⌨️
+Note: Use python 2.
 The URL is given by the "-u" param: -u url (in format http://www.example.com) 
 ```
-python3 web_clasifier.py -u <url>
+python web_clasifier.py -u <url>
 ```
 If you want to get the urls from a file just use "-f input_file":
 ```
-python3 web_clasifier.py -f <input_file>
+python web_clasifier.py -f <input_file>
 ```
 
