@@ -1,4 +1,4 @@
 colorama
 requests
 argparse
-Wappalyzer
+python-Wappalyzer
